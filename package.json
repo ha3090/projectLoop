@@ -37,6 +37,7 @@
     "url": "https://github.com/BlackrockDigital/startbootstrap-agency.git"
   },
   "dependencies": {
+    "cookie-parser": "^1.4.3",
     "passport": "^0.3.2",
     "passport-local-sequelize": "^0.6.0"
   }
