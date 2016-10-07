@@ -21,8 +21,16 @@ h2 {
     font-size: 22px;
 }
 
-.h4, h4-subheading {
-    font-size: 40px;
+h4.subheading {
+    font-size: 50px;
+}
+
+.img-circle {
+    border-radius: 80%;
+    border-top-left-radius: 80%;
+    border-top-right-radius: 80%;
+    border-bottom-right-radius: 80%;
+    border-bottom-left-radius: 80%;
 }
 
 
